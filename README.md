@@ -56,7 +56,7 @@ My work lives at the intersection of **engineering precision** and **artistic in
 
 ## Currently
 
-<img width="854" height="691" alt="Screenshot 2026-03-04 123018" src="https://github.com/user-attachments/assets/9669da72-3bd1-478f-9c0c-86e673feb1cb" />
+<img width="733" height="540" alt="image" src="https://github.com/user-attachments/assets/1dfef8e7-c8b2-47ed-8b6c-edfc93d8e5ba" />
 
 - Developing Backend systems and applications
 - Building games with Godot and Love2D
