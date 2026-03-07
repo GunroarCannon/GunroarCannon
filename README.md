@@ -20,6 +20,8 @@ $ whoami
 
 ## What. I. Do.
 
+<img width="1366" height="697" alt="Screenshot 2026-01-14-1" src="https://github.com/user-attachments/assets/9e844cb0-062e-4e67-8973-819c381a46a8" />
+
 I build **games**, **interactive web experiences**, and **backend systems** — then make them look good, because aesthetics are not optional.
 
 My work lives at the intersection of **engineering precision** and **artistic intention**. Classical art principles, modern tooling, things that ship.
@@ -45,14 +47,18 @@ My work lives at the intersection of **engineering precision** and **artistic in
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 
 ---
 
+
+
 ## Currently
 
+<img width="854" height="691" alt="Screenshot 2026-03-04 123018" src="https://github.com/user-attachments/assets/9669da72-3bd1-478f-9c0c-86e673feb1cb" />
+
+- Developing Backend systems and applications
 - Building games with Godot and Love2D
 - Shipping interactive 3D web experiences
 - Programming Solana projects
@@ -60,13 +66,14 @@ My work lives at the intersection of **engineering precision** and **artistic in
 - Watching something with too much lore
 
 ---
+<img width="616" height="332" alt="Screenshot 2026-03-04 190239" src="https://github.com/user-attachments/assets/bc7d26a0-df04-476f-a143-41a7948a899d" />
 
-<div align="center">
+<!-- <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GunroarCannon&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00cc7a&text_color=8b949e&icon_color=00cc7a&border_color=30363d&hide_border=false)](https://github.com/GunroarCannon)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GunroarCannon&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00cc7a&text_color=8b949e&border_color=30363d)](https://github.com/GunroarCannon)
 
-</div>
+</div> -->
 
 ---
 
