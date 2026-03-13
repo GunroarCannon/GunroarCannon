@@ -1,12 +1,14 @@
 
 <!-- Monochrome Geometric Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=UGO CHIME&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer&descAlignY=65&descAlign=50"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEER;Backend+|+API+Engineer;AI+Systems+Builder;Distributed+Infrastructure;I+Build+Things+That+Scale;Software+Architect;System+Designer;Sexy+MF" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=UGO_CHIME&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=45" />
+
+  <br />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=SOFTWARE+ENGINEER;Backend+|+API+Engineer;AI+Systems+Builder;I+Build+Things+That+Scale;Software+Architect;Game+Developer;Digital+Artist;Writer;System+Designer;Sexy+MF" />
+
+</div>
 
 ### Software Engineer · System Architect · Artist · Game Dev
 
