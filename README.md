@@ -1,5 +1,14 @@
-# UGO CHIME
-### System Architect · Artist · Game Dev
+
+<!-- Monochrome Geometric Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=UGO CHIME&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Software%20Engineer&descAlignY=65&descAlign=50"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEER;Backend+|+API+Engineer;AI+Systems+Builder;Distributed+Infrastructure;I+Build+Things+That+Scale;Software+Architect;System+Designer;Sexy+MF" />
+</p>
+
+### Software Engineer · System Architect · Artist · Game Dev
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00cc7a?style=for-the-badge&logoColor=black)](https://ugochime.vercel.app)
 [![Projects](https://img.shields.io/badge/Projects-111827?style=for-the-badge&logoColor=white)](https://ugochime.vercel.app/projects.html)
